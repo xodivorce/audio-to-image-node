@@ -6,7 +6,7 @@
 #### A simple tool that encodes audio files into PNG images and decodes them back seamlessly, without any quality loss.
 
 [![status](https://img.shields.io/badge/status-active-brightgreen.svg?style=flat)](https://github.com/xodivorce/audio-to-image-node/)
-[![version](https://img.shields.io/badge/version-v1.0.4-yellow.svg?style=flat)](https://github.com/xodivorce/audio-to-image-node/)
+[![version](https://img.shields.io/badge/version-v1.0.5-yellow.svg?style=flat)](https://github.com/xodivorce/audio-to-image-node/)
 [![PRs](https://img.shields.io/badge/PRs-welcome-blue.svg?style=flat)](https://github.com/xodivorce/audio-to-image-node/)
 
 > **🥰 Like this project? Please consider giving it a Star (🌟) on GitHub to show us your appreciation. Thank you!**
@@ -36,7 +36,7 @@
      npm install
      ```
 
-4. **Start the tool:**
+4. **Run the tool:**
    - Run the tool from your terminal:
      ```bash
      # Encode an audio file into a PNG image
