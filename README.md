@@ -6,7 +6,7 @@
 #### A simple tool that encodes audio files into PNG images and decodes them back seamlessly, without any quality loss.
 
 [![status](https://img.shields.io/badge/status-active-brightgreen.svg?style=flat)](https://github.com/xodivorce/audio-to-image-node/)
-[![version](https://img.shields.io/badge/version-v1.0.5-yellow.svg?style=flat)](https://github.com/xodivorce/audio-to-image-node/)
+[![version](https://img.shields.io/badge/version-v1.0.6-yellow.svg?style=flat)](https://github.com/xodivorce/audio-to-image-node/)
 [![PRs](https://img.shields.io/badge/PRs-welcome-blue.svg?style=flat)](https://github.com/xodivorce/audio-to-image-node/)
 
 > **🥰 Like this project? Please consider giving it a Star (🌟) on GitHub to show us your appreciation. Thank you!**
@@ -35,7 +35,7 @@
      ```bash
      npm install
      ```
-
+     
 4. **Run the tool:**
    - Run the tool from your terminal:
      ```bash
@@ -45,14 +45,14 @@
      npm start -- d "./path/to/image.png"
      # For quick testing, use the command `npm start`.
      ```
+
 🐞 **Got Ideas or Spotted a Bug?**  
    Don’t be shy! [*Open an issue*](https://github.com/xodivorce/audio-to-image-node/issues) to discuss new features, enhancements, or any bugs you find. Your feedback is golden!!
-
 
 ### 📄 License
    This project is licensed under the [**MIT License**](LICENSE.txt). You are free to use, modify, and distribute this code for personal or commercial purposes, as long as you include the original copyright and license notice in any copies or substantial portions of the software.
 
-> 🧠 Follow me on [Instagram](https://instagram.com/xodivorce) or check out more projects at [xodivorce.in](https://www.xodivorce.in)
+> 🧠 Follow me on [Instagram](https://www.instagram.com/xodivorce) or check out more projects at [xodivorce.in](https://www.xodivorce.in)
 
 <br></br>
 
